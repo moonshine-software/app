@@ -1,11 +1,12 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "moonshine/app",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "The skeleton application for the Laravel framework with MoonShine.",
     "keywords": [
         "laravel",
-        "framework"
+        "framework",
+        "moonshine"
     ],
     "license": "MIT",
     "require": {
